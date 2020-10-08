@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1495635989 source:c:\users\hamza\desktop\prjlr\newww\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+
+1495663585 source:c:\users\hamza\desktop\prjlr\proje2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+
